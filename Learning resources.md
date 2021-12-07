@@ -2,12 +2,7 @@
 ## Priv Esc
 
 [Local Priv Esc Workshop](https://github.com/sagishahar/lpeworkshop)
-
-<ul>
-<li>
-  [j3rry's LPE Workshop Walkthrough](https://github.com/J3rryBl4nks/LPEWalkthrough)
-  </li>
-  </ul>
+* [j3rry's LPE Workshop Walkthrough](https://github.com/J3rryBl4nks/LPEWalkthrough)
 
 ## Powershell
 
