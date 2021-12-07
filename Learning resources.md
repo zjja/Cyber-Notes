@@ -5,9 +5,9 @@
 
 ## Powershell
 
-[https://youtu.be/UVUd9\_k9C6A](https://youtu.be/UVUd9_k9C6A)
+[Powershell for Beginners](https://youtu.be/UVUd9_k9C6A)
 
-[https://www.youtube.com/watch?v=a8\_DqEVFwO8](https://www.youtube.com/watch?v=a8_DqEVFwO8)
+[SANS - Powershell for Pentesting](https://www.youtube.com/watch?v=a8_DqEVFwO8)
 
 ## AD
 
@@ -17,11 +17,7 @@
 
 [Movement, Pivoting & Persistence](https://academy.tcm-sec.com/p/movement-pivoting-and-persistence-for-pentesters-and-ethical-hackers)
 
-[https://github.com/lorentzenman/sheepl](https://github.com/lorentzenman/sheepl)
-
-[https://github.com/ubeeri/Invoke-UserSimulator](https://github.com/ubeeri/Invoke-UserSimulator)
-
-[https://app.hackthebox.com/tracks/Active-Directory-101](https://app.hackthebox.com/tracks/Active-Directory-101)
+[HTB Active Directory 101](https://app.hackthebox.com/tracks/Active-Directory-101)
 
 
 PWK specific
