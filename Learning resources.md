@@ -1,15 +1,16 @@
 # Learning resources
-Priv Esc
+## Priv Esc
 
 [https://github.com/J3rryBl4nks/LPEWalkthrough](https://github.com/J3rryBl4nks/LPEWalkthrough)
 
-Powershell
+## Powershell
 
 [https://youtu.be/UVUd9\_k9C6A](https://youtu.be/UVUd9_k9C6A)
 
 [https://www.youtube.com/watch?v=a8\_DqEVFwO8](https://www.youtube.com/watch?v=a8_DqEVFwO8)
 
-AD
+## AD
+
 [Throwback lab] (https://tryhackme.com/network/throwback)
 
 [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
