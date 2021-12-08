@@ -14,5 +14,6 @@
 [SANS - Powershell for Pentesting](https://www.youtube.com/watch?v=a8_DqEVFwO8)
 
 
-## PWK specific
-[https://www.offensive-security.com/offsec/pwk-labs-success/](https://www.offensive-security.com/offsec/pwk-labs-success/)
+## OSCP / Pen-200 / PWK Methodology 
+[OSCP Developing a Methodology - From FalconSpy](https://falconspy.medium.com/oscp-developing-a-methodology-32f4ab471fd6)
+[PWK Lab Success - From OffSec](https://www.offensive-security.com/offsec/pwk-labs-success/)
