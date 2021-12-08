@@ -24,7 +24,7 @@
 
 [Active Directory Exploitation Cheat Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)
 
-[AD Attack / Defense - Huge list of resources](https://github.com/infosecn1nja/AD-Attack-Defense)
+[AD Attack / Defense](https://github.com/infosecn1nja/AD-Attack-Defense) - Huge list of resources
 
 ## OSCP Tools allowed (related to AD)
 (from [OSCP Exam Update 11/1/22](https://help.offensive-security.com/hc/en-us/articles/4412170923924-OSCP-Exam-Update-01-11-22-FAQ))
