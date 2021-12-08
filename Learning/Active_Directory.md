@@ -1,7 +1,7 @@
 
 # Hacking Active Directory - Learning and Practice
 
-## Hands on Labs for AD Practice
+## Hands on Labs / Systems for AD Practice
 [Throwback lab - TryHackMe](https://tryhackme.com/network/throwback) - Available outside THM subscription
 
 [HoloLive - TryHackMe](https://tryhackme.com/room/hololive) - Requires THM Subscription
@@ -9,6 +9,17 @@
 [Wreath - TryHackMe](https://tryhackme.com/room/wreath) - Pivoting / Empire Practice but no AD.  Requires THM Subscription or 7 day streak for free users.
 
 [HTB Active Directory 101](https://app.hackthebox.com/tracks/Active-Directory-101) - Requires HTB Subscription
+
+TryHackMe Rooms with AD Practice - Most require THM Subscription
+* [Active Directory Basics](https://tryhackme.com/room/activedirectorybasics)
+* [Attactive Directory](https://tryhackme.com/room/attacktivedirectory)
+* [Post Exploitation Basics](https://tryhackme.com/room/postexploit)
+* [Attacking Kerberos](https://tryhackme.com/room/attackingkerberos)
+* [Zero Logon](https://tryhackme.com/room/zer0logon)
+* [Vulnet: Roasted](https://tryhackme.com/room/vulnnetroasted)
+* [Vulnet: Active](https://tryhackme.com/room/vulnnetactive)
+* [RazorBlack](https://tryhackme.com/room/raz0rblack)
+* [Enterprise](https://tryhackme.com/room/enterprise)
 
 [HTB Lab = Dante](https://app.hackthebox.com/prolabs/overview/dante) - Pricey and probably overkill for OSCP study but an option
 
