@@ -10,6 +10,8 @@
 
 [HTB Active Directory 101](https://app.hackthebox.com/tracks/Active-Directory-101) - Requires HTB Subscription
 
+[HTB Lab = Dante](https://app.hackthebox.com/prolabs/overview/dante) - Pricey and probably overkill for OSCP study but an option
+
 ## Courses that Cover AD (with hands on)
 [Practical Ethical Hacking - TCM Academy](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 
