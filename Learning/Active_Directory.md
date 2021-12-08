@@ -6,7 +6,7 @@
 
 [HoloLive - TryHackMe](https://tryhackme.com/room/hololive) - Requires THM Subscription
 
-[Wreath - TryHackMe](https://tryhackme.com/room/wreath) - Requires THM Subscription or 7 day streak for free users.
+[Wreath - TryHackMe](https://tryhackme.com/room/wreath) - Pivoting / Empire Practice but no AD.  Requires THM Subscription or 7 day streak for free users.
 
 [HTB Active Directory 101](https://app.hackthebox.com/tracks/Active-Directory-101) - Requires HTB Subscription
 
