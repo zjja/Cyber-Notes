@@ -12,16 +12,24 @@
 
 ## AD
 
-[Throwback lab](https://tryhackme.com/network/throwback)
+### Hands on Labs for AD Practice
+[Throwback lab - TryHackMe](https://tryhackme.com/network/throwback) - Available outside THM subscription
 
+[HoloLive - TryHackMe](https://tryhackme.com/room/hololive) - Available to THM Subscribers
+
+[Wreath - TryHackMe](https://tryhackme.com/room/wreath) - Available to THM Subscribers.  THM free users can access after 7 day streak.
+
+[HTB Active Directory 101](https://app.hackthebox.com/tracks/Active-Directory-101)
+
+### Courses that Cover AD (with hands on)
 [Practical Ethical Hacking - TCM Academy](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 
 [Movement, Pivoting & Persistence - TCM Academy](https://academy.tcm-sec.com/p/movement-pivoting-and-persistence-for-pentesters-and-ethical-hackers)
 
-[HTB Active Directory 101](https://app.hackthebox.com/tracks/Active-Directory-101)
+[Attacking and Defending Active Directory - Pentester Academy](https://www.pentesteracademy.com/activedirectorylab) - Live course option as well as pre-recorded available with subscription to Pentester Academy
 
-[Attacking and Defending Active Directory - Pentester Academy](https://www.pentesteracademy.com/activedirectorylab)
 
+### AD Methodology & Further Reading
 [Attacking Active Directory](https://zer1t0.gitlab.io/posts/attacking_ad/)
 
 [Active Directory Attacks](https://gist.github.com/Rajchowdhury420/da4d12a3db13aa5232fcd4e7d96ec6a1)
