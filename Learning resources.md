@@ -2,7 +2,7 @@
 
 ## AD
 
-[My List of AD resources](https://github.com/zjja/Cyber-Notes/blob/main/Learning/Active_Directory.md)
+[Hacking Active Directory - Learning and Practice](https://github.com/zjja/Cyber-Notes/blob/main/Learning/Active_Directory.md)
 
 ## Priv Esc
 [Local Priv Esc Workshop](https://github.com/sagishahar/lpeworkshop)
