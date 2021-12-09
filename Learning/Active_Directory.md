@@ -22,6 +22,8 @@ TryHackMe Rooms with AD Practice - Most require THM Subscription
 * [RazorBlack](https://tryhackme.com/room/raz0rblack)
 * [Enterprise](https://tryhackme.com/room/enterprise)
 
+[Dante - HTB ProLab](https://app.hackthebox.com/prolabs/overview/dante) - appears to have limited AD but plenty of pivoting practice.  Pricey and probably overkill for OSCP study
+
 ## Courses that Cover AD (with hands on)
 [Practical Ethical Hacking - TCM Academy](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 
