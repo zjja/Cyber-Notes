@@ -2,6 +2,7 @@
 # Hacking Active Directory - Learning and Practice
 
 ## Hands on Labs / Systems for AD Practice
+
 [Throwback lab - TryHackMe](https://tryhackme.com/network/throwback) - Available outside THM subscription
 
 [HoloLive - TryHackMe](https://tryhackme.com/room/hololive) - Requires THM Subscription
@@ -20,8 +21,6 @@ TryHackMe Rooms with AD Practice - Most require THM Subscription
 * [Vulnet: Active](https://tryhackme.com/room/vulnnetactive)
 * [RazorBlack](https://tryhackme.com/room/raz0rblack)
 * [Enterprise](https://tryhackme.com/room/enterprise)
-
-[HTB Lab = Dante](https://app.hackthebox.com/prolabs/overview/dante) - Pricey and probably overkill for OSCP study but an option
 
 ## Courses that Cover AD (with hands on)
 [Practical Ethical Hacking - TCM Academy](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
