@@ -19,3 +19,9 @@ systeminfo | findstr /B /C: "OS Name" /C: "OS Version"
 wmic service list
 ```
 
+## Environment Variables
+
+```bash
+set
+```
+
