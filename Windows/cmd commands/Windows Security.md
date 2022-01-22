@@ -1,4 +1,18 @@
-# Windows Security (bypassing)
+# Windows Security
+
+## Determine if windefend is running
+
+```bash
+sc query windefend
+```
+
+## List firewall rules/status
+
+```bash
+netsh advfirewall firewall dump
+netsh firewall show state
+netsh fireall show config
+```
 
 ## Allow Remote desktop
 

