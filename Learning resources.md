@@ -22,6 +22,8 @@
 
 [TJNull's Pen-200 Prep guide](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
 
+[IPPSec's interview which includes how to use his videos to build a methodology](https://thesecuritynoob.com/interviews/interview-with-ippsec-of-youtube-and-hackthebox/)
+
 ## SSH Tunneling
 
 [The Cyber Plumbers Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook/)
