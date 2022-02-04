@@ -17,7 +17,7 @@ Get-Childitem -Path c:\ -Include <filename> -File -Recurse -ErrorAction Silently
 Get-ChildItem -Recurse | Select-String "<string>"
 ```
 
-## File transfer
+## File transfer / download
 
 ```powershell
 wget http://<url>/<file> -outfile <file>
